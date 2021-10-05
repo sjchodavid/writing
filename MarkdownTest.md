@@ -1,3 +1,3 @@
 ## Markdown Test입니다
-수식입력 
+Math formula test
 $$\frac{x}{y} \cdot e^{-x}$$
